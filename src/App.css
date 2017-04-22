@@ -1,0 +1,30 @@
+.App {
+  display: flex;
+  margin: 5% auto;
+  width: 75%;
+  min-height: 720px;
+  -webkit-box-shadow: 0 0 5px #333;
+  -moz-box-shadow: 0 0 5px #333;
+  box-shadow: 0 0 5px #333;
+  flex-direction: column;
+}
+
+.App-header {
+  text-align: center;
+  background-color: #E91E63;
+  color: #fff;
+}
+
+.App-content {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.App-content > div {
+  display: flex;
+  flex-basis: 30%;
+  padding: 5px;
+}
