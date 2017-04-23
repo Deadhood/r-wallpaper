@@ -19,5 +19,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://deadhood.github.io/r-walpaper/"
+  "homepage": "https://deadhood.github.io/r-wallpaper/"
 }
